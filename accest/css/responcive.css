@@ -1,0 +1,906 @@
+/**=================Screen 992px to 1199.99px Responcive=================**/
+
+@media(min-width: 992px) and (max-width: 1199.98px) {
+    #header .menu .logo a img {
+        margin-top: 15px;
+    }
+
+    #header .menu ul li a {
+        font-size: 15px;
+    }
+
+    #header .header_text h5 {
+        font-size: 16px;
+        right: 90px;
+        top: 275px;
+    }
+
+    #header .header_text h2 {
+        font-size: 55px;
+        right: 90px;
+        top: 306px;
+    }
+
+    #header .header_text h3 {
+        font-size: 57px;
+        right: 90px;
+        top: 377px;
+    }
+
+    #header .header_btn {
+        right: 105px;
+    }
+
+    /**============About============**/
+
+    #about .about_item {
+        margin-left: 25px;
+
+    }
+
+    #about .about_img {
+        top: -2px;
+        left: 27px;
+
+    }
+
+    #about .about_part {
+        margin-left: 75px;
+    }
+
+    #about .about_part h1 {
+        text-align: center;
+    }
+
+    #about .about_part p {
+        padding-top: 25px;
+        text-align: justify;
+    }
+
+    #about .about_part h3 {
+        padding-top: 35px;
+    }
+
+    /**=============Portfolio======**/
+    #portfolio h3 {
+        font-size: 32px;
+        color: #222222;
+    }
+
+    #portfolio .portfolio_list {
+        padding-top: 5px;
+    }
+
+    #portfolio .portfolio_list ul li {
+        line-height: 47px;
+    }
+
+    #portfolio .portfolio_list ul li a {
+        font-size: 18px;
+    }
+
+    /**=============Testimonial======**/
+    #testimonial .testimonial_shape {
+        transform: rotate(-90deg) skewX(-31deg) scale(1.3, 1.1);
+        margin-left: 15px;
+        top: 45px;
+    }
+
+    #testimonial .testimonial_item .testimonial_text p {
+        clear: both;
+        font-size: 15px;
+        padding-bottom: 125px;
+        text-align: justify;
+    }
+
+    /**=============Pricing Plan======**/
+    #price .pricing_table .price {
+        font-size: 55px;
+    }
+
+    #price .pricing_table .list-group-item a {
+        font-size: 15px;
+    }
+
+    /**=============My Blogs======**/
+    #blog .blog_card .blog_card_img img {
+        height: 282px;
+    }
+
+    #blog .blog_card .blog_card_item {
+        padding: 20px;
+    }
+
+    #blog .blog_card_item .card_post {
+        padding-top: 16px;
+    }
+
+    #blog .blog_card_item .card_post .user_icon {
+        font-size: 11px;
+    }
+
+    #blog .blog_card_item .card_post h5 {
+        padding-left: 4px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    #blog .blog_card_item .card_post ul li {
+        font-size: 12px;
+        padding-left: 4px;
+    }
+
+    #blog .blog_card_item .card_post ul li span {
+        padding-left: 1px;
+    }
+
+    #blog .blog_card_item h4 {
+        font-size: 18px;
+    }
+
+    #blog .blog_card_item p {
+        font-size: 13px;
+    }
+
+    #blog .card_next .read_more a {
+        font-size: 15px;
+    }
+
+    #blog .card_next .share a {
+        font-size: 15px;
+    }
+
+    #blog .blog_card1 .blog_card_item h4 {
+        padding: 4px 0px;
+    }
+
+    /**============= Footer ======**/
+    #footer .footer_top .contact ul li a {
+        font-size: 17px;
+    }
+
+    #footer .footer_top .contact .social_link li {
+        margin-right: 10px;
+    }
+
+    #footer .footer_top .social_link li a i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    #footer .footer_bottom h6 {
+        font-size: 13px;
+    }
+}
+
+/**=================Screen 992px to 1199.99px Responcive=================**/
+/**=================Screen 768px to 991.99px Responcive=================**/
+
+@media(min-width: 768px) and (max-width: 991.98px) {
+    #header .menu .logo {
+        width: 150px;
+    }
+
+    #header .menu .logo a img {
+        margin-top: 15px;
+    }
+
+    #header {
+        padding-bottom: 211px;
+    }
+
+    #header .header_img {
+        width: 469px;
+    }
+
+    #header .header_text h5 {
+        font-size: 18px;
+        right: 22px;
+        top: 180px;
+    }
+
+    #header .header_text h2 {
+        font-size: 60px;
+        z-index: 9999;
+        right: 22px;
+        top: 200px;
+    }
+
+    #header .header_text h3 {
+        font-size: 55px;
+        right: 22px;
+        top: 260px;
+    }
+
+    #header .header_btn {
+        right: 40px;
+        top: 370px;
+    }
+
+    /**============About============**/
+
+    #about {
+        margin-top: 97px;
+        position: relative;
+        margin-bottom: 54px;
+    }
+
+    #about .about_shape {
+        transform: rotate(-89deg) skewX(-31deg) scale(1.2, 1);
+        margin-top: 71px;
+        margin-left: -13px;
+    }
+
+    #about .about_img {
+        width: 249px;
+    }
+
+    #about .about_part h1 {
+        text-align: center;
+    }
+
+    #about .about_part p {
+        padding-top: 20px;
+        text-align: justify;
+        font-size: 13px;
+    }
+
+    #about .about_part h3 {
+        padding-top: 10px;
+    }
+
+    /**=============My Services======**/
+
+    #service .service_part {
+        padding-top: 45px;
+    }
+
+    #service .service_shape {
+        margin-left: 70px;
+    }
+
+    #service .service_shape,
+    #service .service_shape::before,
+    #service .service_shape::after {
+        width: 50px;
+        height: 50px;
+    }
+
+    #service .service_part .service_icon img {
+        top: 42px;
+        left: 100px;
+    }
+
+    #service .service_part h2 {
+        font-size: 19px;
+        font-weight: 600;
+    }
+
+    #service .service_part p {
+        font-size: 13px;
+        text-align: justify;
+    }
+
+    /**=============Portfolio======**/
+
+    #portfolio .portfolio_list {
+        padding-top: 10px;
+    }
+
+    #portfolio h3 {
+        font-size: 25px;
+    }
+
+    #portfolio .portfolio_list ul li {
+        line-height: 36px;
+    }
+
+    #portfolio .portfolio_list ul li a {
+        font-size: 17px;
+    }
+
+    #portfolio .browse_btn {
+        padding-top: 22px;
+        padding-bottom: 70px;
+    }
+
+    #portfolio .browse_btn a {
+        font-size: 14px;
+
+    }
+
+    /**=============Testimonial======**/
+
+    #testimonial .testimonial_shape {
+        top: 47px;
+    }
+
+    #testimonial .testimonial_shape,
+    #testimonial .testimonial_shape::before,
+    #testimonial .testimonial_shape::after {
+        width: 45px;
+        height: 45px;
+    }
+
+    #testimonial .testimonial_item .testimonial_img {
+        width: 720px;
+    }
+
+    #testimonial .testimonial_item .testimonial_text h4 {
+        font-size: 19px;
+        font-weight: 600;
+        margin-bottom: 0px;
+
+    }
+
+    #testimonial .testimonial_item .testimonial_text h5 {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+
+    #testimonial .testimonial_item .testimonial_text .testimonial_icon ul {
+        margin-bottom: 10px;
+
+    }
+
+    #testimonial .testimonial_item .testimonial_text p {
+        font-size: 13px;
+        padding-bottom: 105px;
+        text-align: justify;
+
+    }
+
+    /**=============Pricing Plan======**/
+
+    #price {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    #price .pricing_table .item_top {
+        font-size: 19px;
+    }
+
+    #price .pricing_table .price {
+        font-size: 30px;
+    }
+
+    #price .pricing_table .price span {
+        font-size: 18px;
+    }
+
+    #price .pricing_table .list-group-item p {
+        margin: -3px;
+    }
+
+    #price .pricing_table .list-group-item a {
+        font-size: 12px;
+    }
+
+    /**=============My Blogs======**/
+
+    #blog .blog_card .blog_card_img img {
+        width: 143px;
+        height: 219px;
+    }
+
+    #blog .blog_card_item .card_post {
+        padding-top: 0px;
+    }
+
+    #blog .blog_card .blog_card_item {
+        padding: 10px;
+    }
+
+    #blog .blog_card_item .card_post .user_icon {
+        font-size: 10px;
+    }
+
+    #blog .blog_card_item .card_post h5 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    #blog .blog_card_item .card_post ul {
+        margin-bottom: 8px;
+    }
+
+    #blog .blog_card_item .card_post ul li {
+        font-size: 12px;
+        padding-left: 5px;
+    }
+
+    #blog .blog_card_item .card_post ul li span {
+        padding-left: 1px;
+    }
+
+    #blog .blog_card_item h4 {
+        font-size: 17px;
+    }
+
+    #blog .blog_card_item p {
+        font-size: 12px;
+        text-align: justify;
+        line-height: 17px;
+    }
+
+    #blog .card_next .read_more a {
+        font-size: 14px;
+    }
+
+    #blog .card_next .share a {
+        font-size: 14px;
+    }
+
+    #blog .blog_card1 .blog_card_item {
+        padding: 10px;
+    }
+
+    #blog .blog_card1 .blog_card_item h4 {
+        padding: 14px 0px;
+    }
+
+    #blog .blog_card1 .blog_card_item p {
+        margin-bottom: 26px;
+    }
+
+    /**=============Footer======**/
+
+    #footer {
+        padding-top: 40px;
+    }
+
+    #footer .footer_top .contact ul li a {
+        font-size: 16px;
+    }
+
+    #footer .footer_top .contact .follow_me {
+        padding-top: 16px;
+    }
+
+    #footer .footer_top .massage {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    #footer .footer_top .massage .submit_btn {
+        top: 249px;
+    }
+}
+
+/**=================Screen 768px to 991.99px Responcive=================**/
+/**=================Screen 520px to 767.99px Responcive=================**/
+
+@media(min-width: 576px) and (max-width: 767.98px) {
+    #header {
+        padding-bottom: 143px;
+    }
+
+    #header .menu .logo {
+        width: 150px;
+    }
+
+    #header .menu .logo a img {
+        margin-top: 15px;
+    }
+
+    #header .header_img {
+        width: 397px;
+    }
+
+    #header .header_text h5 {
+        font-size: 15px;
+        z-index: 999;
+        top: 170px;
+        left: 0px;
+    }
+
+    #header .header_text h2 {
+        font-size: 56px;
+        z-index: 999;
+        left: 0;
+        top: 178px;
+    }
+
+    #header .header_text h3 {
+        font-size: 50px;
+        top: 230px;
+        left: 0px;
+    }
+
+    #header .header_btn {
+        left: -7px;
+        top: 317px;
+    }
+
+/**============About============**/
+
+    #about {
+        margin-top: 110px;
+        margin-bottom: 56px;
+
+    }
+
+    #about .about_shape {
+        margin-top: 14px;
+        margin-left: 118px;
+
+    }
+
+    #about .about_shape,
+    #about .about_shape::before,
+    #about .about_shape::after {
+
+        width: 7em;
+        height: 7em;
+    }
+
+    #about .about_img {
+        top: -64px;
+        left: 103px;
+        width: 239px;
+    }
+
+    .about_part {
+        margin-top: 180px;
+    }
+
+    .about_part h1 {
+        text-align: center;
+    }
+
+    #about .about_part p {
+        padding-top: 0px;
+        text-align: justify;
+    }
+
+    #about .about_part h3 {
+        padding-top: 12px;
+        text-align: center;
+    }
+
+    #about .about_icon {
+        margin-left: 85px;
+    }
+
+/**============My Service============**/
+    
+    #service .service_shape {
+        margin-left: 46px;
+    }
+
+    #service .service_shape,
+    #service .service_shape::before,
+    #service .service_shape::after {
+        width: 45px;
+        height: 45px;
+    }
+
+    #service .service_part .service_icon img {
+        width: 45px;
+        height: 48px;
+        left: 70px;
+    }
+
+    #service .service_part h2 {
+        padding-top: 47px;
+        font-size: 14px;
+    }
+
+    #service .service_part p {
+        font-size: 11px;
+        text-align: justify;
+    }
+
+/**============Portfolio============**/
+    
+
+    #portfolio h3 {
+        font-size: 26px;
+    }
+
+    #portfolio .portfolio_list {
+        padding-top: 0px;
+    }
+
+    #portfolio .portfolio_list ul li {
+        line-height: 26px;
+    }
+
+    #portfolio .portfolio_list ul li a {
+        font-size: 16px;
+    }
+
+    #portfolio .browse_btn {
+        padding-top: 15px;
+        padding-bottom: 70px;
+    }
+
+    #portfolio .browse_btn a {
+        font-size: 14px;
+    }
+
+/**============Testimonial============**/
+    
+    #testimonial .testimonial_item {
+        display: flow-root;
+    }
+
+    #testimonial .testimonial_shape {
+        margin-left: 48px;
+        top: 70px;
+        z-index: -1;
+    }
+
+    #testimonial .testimonial_item .testimonial_img {
+        padding-left: 40px;
+    }
+
+    #testimonial .testimonial_item .testimonial_text h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+
+    #testimonial .testimonial_item .testimonial_text h5 {
+        font-size: 14px;
+        margin: 0;
+    }
+
+    #testimonial .testimonial_item .testimonial_text p {
+        font-size: 15px;
+        padding-bottom: 100px;
+    }
+
+/**============Price============**/
+    
+    #price {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #price h1 {
+        padding-bottom: 10px;
+    }
+
+    #price .pricing_table {
+        margin: 50px;
+        border-radius: 5px;
+    }
+
+    #price .pricing_table .item_top {
+        border-radius: 5px;
+    }
+
+/**============My Blog============**/
+
+    #blog .blog_card .blog_card_img img {
+        height: 280px;
+    }
+
+    #blog .blog_card .blog_card_item {
+        padding: 15px;
+    }
+
+    #blog .blog_card_item .card_post {
+        padding-top: 0px;
+    }
+
+    #blog .blog_card_item .card_post .user_icon {
+        font-size: 11px;
+    }
+
+    #blog .blog_card_item .card_post h5 {
+        padding-left: 3px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    #blog .blog_card_item .card_post ul li {
+        font-size: 11px;
+        padding-left: 5px;
+    }
+
+    #blog .blog_card_item .card_post ul li span {
+        padding-left: 1px;
+    }
+
+    #blog .blog_card_item h4 {
+        font-size: 18px;
+    }
+
+    #blog .card_next .read_more a {
+        font-size: 15px;
+    }
+
+    #blog .card_next .share a {
+        font-size: 15px;
+    }
+
+    #blog .blog_card_img1 img {
+        width: 510px;
+    }
+
+    #blog .browse_btn {
+        margin-top: 65px;
+    }
+
+/**============Footer============**/
+    
+    #footer {
+        padding-top: 50px;
+    }
+
+    #footer .footer_top .contact .follow_me {
+        padding-top: 15px;
+    }
+
+    #footer .footer_top .massage {
+        margin-top: 35px;
+    }
+
+    #footer .footer_top .massage .submit_btn {
+        top: 244px;
+    }
+}
+
+/**=================Screen 520px to 767.99px Responcive=================**/
+/**=================Screen 320px to 519.99px Responcive=================**/
+
+@media(min-width: 320px) and (max-width: 575.98px) {
+    #header {
+    padding-bottom: 216px;
+}
+    #header .menu .logo {
+    width: 110px;
+}
+    #header .menu .logo a img {
+    margin-top: 13px;
+}
+    #header .header_img {
+    left: 65px;
+    width: 80%;
+        z-index: 0;
+}
+    .header_img img {
+    height: 72%;
+}
+    #header .header_text {
+    padding-top: 230px;
+}
+    #header .header_text h5 {
+    font-size: 14px;
+    left: 20px;
+        right: unset;
+}
+    #header .header_text h2 {
+    font-size: 50px;
+    left: 20px;
+    top: 245px;
+}
+    #header .header_text h3 {
+    font-size: 45px;
+    left: 20px;
+    top: 298px;
+}
+    #header .header_btn {
+    left: 26px;
+    top: 365px;
+        right: unset
+}
+    #header .header_btn a {
+    font-size: 14px;
+    padding: 7px 11px;
+        margin-left: 10px;
+}
+    
+    
+    
+    #about {
+        margin-top: 40px;
+    margin-bottom: 40px;
+}
+    #about .about_shape {
+    margin-top: 140px;
+    margin-left: 34px;
+}
+    #about .about_shape, #about .about_shape::before, #about .about_shape::after {
+    width: 6.8em;
+    height: 6.8em;
+}
+    #about .about_img {
+    left: 18px;
+    width: 275px;
+}
+    .about_part {
+    margin-top: 160px;
+}
+    #about .about_part p {
+    font-size: 13px;
+    padding-top: 10px;
+    text-align: justify;
+}
+    #about .about_part h3 {
+    padding-top: 5px;
+}
+    #about .about_icon ul li {
+    margin-right: 14px;
+}
+    #about .about_icon ul li a i {
+    font-size: 16px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+}
+    
+    
+    
+    #service #carouselExampleIndicators{
+        padding-bottom: 80px;
+    }
+    #service .carousel-indicators li {
+    margin-bottom: 0px;
+}
+    #service .service_part {
+    padding-top: 45px;
+    width: 290px;
+    margin: 0 auto;
+}
+    #service .service_shape {
+    margin-left: 112px;
+}
+    #service .service_shape, #service .service_shape::before, #service .service_shape::after {
+    width: 45px;
+    height: 45px;
+}
+    #service .service_part .service_icon img {
+    width: 40px;
+    height: 45px;
+    top: 46px;
+    left: 0px;
+    display: block;
+    right: 0;
+    margin: auto;
+}
+    #service .service_part h2 {
+    padding-top: 30px;
+    font-size: 18px;
+}
+    #service .service_part p {
+    font-size: 13px;
+    margin-bottom: 0px;
+    text-align: justify;
+}
+    
+    
+    
+    
+    #disable_320{
+        display: none;
+    }
+    #portfolio .screen_show_320{
+        display: block;
+    }
+    #portfolio {
+    padding-top: 45px;
+}
+    #portfolio .portfolio_list {
+    padding-top: 10px;
+}
+    #portfolio .portfolio_list ul li {
+    line-height: 30px;
+}
+    #portfolio .portfolio_list ul li:hover a {
+    -ms-transform: translateX(10px);
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+    #portfolio .portfolio_list ul li a {
+    font-size: 16px;
+    font-weight: 400;
+}
+    
+    
+}
+
+/**=================Screen 320px to 519.99px Responcive=================**/
